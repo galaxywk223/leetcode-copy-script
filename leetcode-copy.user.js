@@ -8,6 +8,8 @@
 // @match        https://leetcode.com/problems/*
 // @grant        GM_setClipboard
 // @run-at       document-idle
+// @license      MIT
+// @supportURL   https://github.com/galaxywk223/leetcode-copy-script/issues
 // ==/UserScript==
 
 (function () {
