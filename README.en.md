@@ -1,5 +1,7 @@
 # LeetCode Copy Helper
 
+[中文文档](./README.md)
+
 LeetCode Copy Helper is a Tampermonkey userscript for copying LeetCode and LeetCode China problem statements as Markdown.
 
 ## Features
@@ -33,4 +35,3 @@ LeetCode Copy Helper is a Tampermonkey userscript for copying LeetCode and LeetC
 Code and documentation in this repository are released under the [MIT License](./LICENSE).
 
 The license only covers script code, documentation, and screenshot assets authored or organized in this repository. Problem statements, tags, examples, site structures, and other third-party content from LeetCode or LeetCode China are not relicensed by this repository.
-

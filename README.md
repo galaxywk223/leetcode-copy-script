@@ -1,5 +1,7 @@
 # LeetCode Copy Helper
 
+[English documentation](./README.en.md)
+
 一个用于在 LeetCode / 力扣题目页一键复制题目的 Tampermonkey 用户脚本。
 
 ## 功能
